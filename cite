@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-2427-6330" 
 title: "Pipeline for machine learning–based prediction of severe neurocognitive impairment phenotype in acute coronary syndrome"
 version: 1.0.0
-doi: 10.5281/zenodo.XXXXXXX 
+doi: https://doi.org/10.5281/zenodo.18152684
 date-released: 2026-01-05
 url: "https://github.com/peixotopsi-ctrl/Machine-learning-based-prediction-of-severe-neurocognitive-impairment-phenotype-in-ACS"
